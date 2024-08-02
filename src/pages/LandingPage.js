@@ -55,7 +55,7 @@ const LandingPage = () => {
           </div>
         </div>
         <div className="absolute h-[43.33%] w-[11.11%] top-[30%] right-[11.46%] bottom-[26.67%] left-[77.43%] text-center text-xs text-colour-secondary-white-100-general">
-          <div className="absolute h-full w-full top-[0px] right-[0px] bottom-[0px] left-[0px] rounded-sm bg-colour-main-blue-800" />
+          <div className="absolute h-full w-full top-[0px] right-[0px] bottom-[0px] left-[0px] rounded-sm bg-greenyellow" />
           <div className="absolute w-full top-[calc(50%_-_9px)] left-[0px] leading-[18px] font-medium inline-block">
             Buy Now
           </div>
@@ -94,7 +94,7 @@ const LandingPage = () => {
         <img
           className="absolute h-[68.01%] w-[37.5%] top-[16.13%] right-[51.04%] bottom-[15.85%] left-[11.46%] max-w-full overflow-hidden max-h-full"
           alt=""
-          src="/undraw-happy-news-hxmt1@2x.svg"
+          src="/undraw-happy-news-hxmt1@2x@2x.svg"
         />
       </div>
       <UndrawMobileLoginIkmvEle />
